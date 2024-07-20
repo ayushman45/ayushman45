@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring new technologies and developing programming insights.<br>BTech CSE Undergrad at Institute of Technical Education and Research, Bhubaneswar
+SWE @REVERIE LANGUAGE TECHNOLOGIES
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Exploring new technologies and developing programming insights.<br>BTech CSE Und
 ![](https://github-readme-stats.vercel.app/api?username=ayushman45&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushman45&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman45&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayushman45&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
